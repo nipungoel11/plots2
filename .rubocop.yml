@@ -1,4 +1,4 @@
-# Start with Spotifys style guide as a base then customize from there
+# Start with Spotifys style guide as a base then customize from there and here... You should do it
 inherit_from:
   - .rubocop_shopify_styleguide.yml
   - .rubocop_todo.yml
